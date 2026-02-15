@@ -1,1 +1,9 @@
-[]
+[
+    {
+        "id": "LT01",
+        "name": "nitro",
+        "brand": "acer",
+        "price": 100000000,
+        "quantity": 29
+    }
+]
